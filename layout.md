@@ -8,5 +8,5 @@ section_Results_subsection_Initial_Conditions__.tex
 subsection_Organic_Matter_Mineralization_Over__.tex
 figures/SOD_OM_by_days1/SOD_OM_by_days1.jpeg
 figures/SOD_OM_by_days/SOD_OM_by_days.jpeg
-subsection_Dissolved_Oxygen_Concentration__.tex
+subsection_Dissolved_Oxygen_Concentration_The__.tex
 begin_table_label_tab_k_summary__.tex
