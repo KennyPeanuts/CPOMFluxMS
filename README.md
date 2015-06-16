@@ -7,4 +7,4 @@ These files are synched with Authorea
 
 All information is licensed CC-BY
 
--Kenneth Fortino
+Author = Kenneth Fortino
