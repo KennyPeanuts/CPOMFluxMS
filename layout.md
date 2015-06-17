@@ -3,7 +3,7 @@ Study Site.tex
 Methods:Lab.tex
 Methods:Incubation.tex
 Methods:BOD.tex
-OM Quality.tex
+MethodsOMQuality.tex
 section_Results_subsection_Initial_Conditions__.tex
 subsection_Organic_Matter_Mineralization_Over__.tex
 subsection_Dissolved_Oxygen_Concentration_The__.tex
