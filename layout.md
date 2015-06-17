@@ -4,7 +4,7 @@ MethodsLab.tex
 MethodsIncubation.tex
 MethodsBOD.tex
 MethodsOMQuality.tex
-section_Results_subsection_Initial_Conditions__.tex
+ResultsInitialConditions.tex
 subsection_Organic_Matter_Mineralization_Over__.tex
 subsection_Dissolved_Oxygen_Concentration_The__.tex
 Results:CN.tex
