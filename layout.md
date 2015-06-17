@@ -2,7 +2,7 @@ Introduction.tex
 Study Site.tex
 Methods:Lab.tex
 Methods:Incubation.tex
-BOD.tex
+Methods:BOD.tex
 OM Quality.tex
 section_Results_subsection_Initial_Conditions__.tex
 subsection_Organic_Matter_Mineralization_Over__.tex
