@@ -7,5 +7,5 @@ MethodsOMQuality.tex
 ResultsInitialConditions.tex
 ResultsOMMineralization.tex
 ResultsDO.tex
-Results:CN.tex
+ResultsCN.tex
 begin_table_label_tab_k_summary__.tex
