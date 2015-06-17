@@ -6,6 +6,6 @@ MethodsBOD.tex
 MethodsOMQuality.tex
 ResultsInitialConditions.tex
 ResultsOMMineralization.tex
-subsection_Dissolved_Oxygen_Concentration_The__.tex
+ResultsDO.tex
 Results:CN.tex
 begin_table_label_tab_k_summary__.tex
