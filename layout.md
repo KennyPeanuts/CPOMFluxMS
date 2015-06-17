@@ -1,5 +1,5 @@
 Introduction.tex
-Study Site.tex
+StudySite.tex
 Methods:Lab.tex
 Methods:Incubation.tex
 Methods:BOD.tex
