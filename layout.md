@@ -8,4 +8,4 @@ ResultsInitialConditions.tex
 ResultsOMMineralization.tex
 ResultsDO.tex
 ResultsCN.tex
-begin_table_label_tab_k_summary__.tex
+k_synthesis.tex
