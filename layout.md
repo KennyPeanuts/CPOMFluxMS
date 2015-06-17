@@ -1,6 +1,6 @@
 Introduction.tex
 StudySite.tex
-Methods:Lab.tex
+MethodsLab.tex
 Methods:Incubation.tex
 Methods:BOD.tex
 MethodsOMQuality.tex
