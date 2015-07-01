@@ -10,4 +10,5 @@ ResultsDO.tex
 ResultsCN.tex
 ResultsNutrientFlux.tex
 OM_Quality__.tex
+Results_Litter_Decomposition_section_Litter_Decomposition_Rate__.tex
 k_synthesis.tex
