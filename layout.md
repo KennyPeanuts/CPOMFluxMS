@@ -4,7 +4,7 @@ MethodsLab.tex
 MethodsIncubation.tex
 MethodsBOD.tex
 MethodsOMQuality.tex
-subsection_Coarse_Particulate_Matter_Density__.tex
+MethodsCPOMDensity.tex
 ResultsInitialConditions.tex
 ResultsOMMineralization.tex
 ResultsDO.tex
