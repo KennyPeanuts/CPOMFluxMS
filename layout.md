@@ -11,5 +11,5 @@ ResultsCN.tex
 ResultsNutrientFlux.tex
 ResultsOMQuality.tex
 subsection_Litter_Decomposition_Rate_The__.tex
-subsection_Coarse_Particulate_Matter_Density__.tex
+ResultsCPOMDens.tex
 k_synthesis.tex
