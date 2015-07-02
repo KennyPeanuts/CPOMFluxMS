@@ -10,6 +10,6 @@ ResultsDO.tex
 ResultsCN.tex
 ResultsNutrientFlux.tex
 OM_Quality__.tex
-Results_Litter_Decomposition_section_Litter_Decomposition_Rate__.tex
+subsection_Litter_Decomposition_Rate_The__.tex
 subsection_Coarse_Particulate_Matter_Density__.tex
 k_synthesis.tex
