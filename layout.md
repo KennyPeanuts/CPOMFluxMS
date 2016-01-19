@@ -13,4 +13,5 @@ ResultsNutrientFlux.tex
 ResultsOMQuality.tex
 ResultsLitterDecomp.tex
 ResultsCPOMDens.tex
+ResultsErgosterol.tex
 k_synthesis.tex
