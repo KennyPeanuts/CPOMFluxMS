@@ -7,7 +7,6 @@ MethodsOMQuality.tex
 MethodsCPOMDensity.tex
 ResultsInitialConditions.tex
 ResultsOMMineralization.tex
-ResultsDO.tex
 ResultsCN.tex
 ResultsNutrientFlux.tex
 ResultsOMQuality.tex
