@@ -5,7 +5,6 @@ MethodsIncubation.tex
 MethodsBOD.tex
 MethodsOMQuality.tex
 MethodsCPOMDensity.tex
-ResultsInitialConditions.tex
 ResultsOMMineralization.tex
 ResultsCN.tex
 ResultsNutrientFlux.tex
