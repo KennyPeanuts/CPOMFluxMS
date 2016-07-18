@@ -7,8 +7,8 @@ MethodsBOD.tex
 MethodsOMQuality.tex
 ResultsCN.tex
 ResultsNutrientFlux.tex
-ResultsCPOMDens.tex
 ResultsOMQuality.tex
+ResultsCPOMDens.tex
 ResultsOMMineralization.tex
 ResultsLitterDecomp.tex
 ResultsErgosterol.tex
