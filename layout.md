@@ -1,5 +1,6 @@
 Introduction.tex
 StudySite.tex
+MethodsCPOMDensity.tex
 MethodsLab.tex
 MethodsIncubation.tex
 MethodsBOD.tex
@@ -12,4 +13,3 @@ ResultsLitterDecomp.tex
 ResultsCPOMDens.tex
 ResultsErgosterol.tex
 k_synthesis.tex
-MethodsCPOMDensity.tex
