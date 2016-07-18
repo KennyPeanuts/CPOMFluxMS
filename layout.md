@@ -6,9 +6,9 @@ MethodsIncubation.tex
 MethodsBOD.tex
 MethodsOMQuality.tex
 ResultsCN.tex
-ResultsCPOMDens.tex
 ResultsNutrientFlux.tex
 ResultsOMMineralization.tex
+ResultsCPOMDens.tex
 ResultsOMQuality.tex
 ResultsLitterDecomp.tex
 ResultsErgosterol.tex
