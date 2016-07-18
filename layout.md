@@ -9,7 +9,7 @@ ResultsCN.tex
 ResultsNutrientFlux.tex
 ResultsOMQuality.tex
 ResultsCPOMDens.tex
-ResultsOMMineralization.tex
 ResultsLitterDecomp.tex
+ResultsOMMineralization.tex
 ResultsErgosterol.tex
 k_synthesis.tex
