@@ -5,9 +5,9 @@ MethodsLab.tex
 MethodsIncubation.tex
 MethodsBOD.tex
 MethodsOMQuality.tex
-ResultsOMMineralization.tex
 ResultsCPOMDens.tex
 ResultsCN.tex
+ResultsOMMineralization.tex
 ResultsNutrientFlux.tex
 ResultsOMQuality.tex
 ResultsLitterDecomp.tex
