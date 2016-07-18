@@ -1,10 +1,10 @@
 Introduction.tex
 StudySite.tex
+MethodsCPOMDensity.tex
 MethodsLab.tex
 MethodsIncubation.tex
 MethodsBOD.tex
 MethodsOMQuality.tex
-MethodsCPOMDensity.tex
 ResultsOMMineralization.tex
 ResultsCN.tex
 ResultsNutrientFlux.tex
