@@ -3,7 +3,6 @@ StudySite.tex
 MethodsCPOMDensity.tex
 Methods_Litter_Decomp.tex
 MethodsLab.tex
-MethodsIncubation.tex
 MethodsBOD.tex
 MethodsOMQuality.tex
 ResultsCN.tex
