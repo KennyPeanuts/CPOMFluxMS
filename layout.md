@@ -5,12 +5,12 @@ Methods_Litter_Decomp.tex
 MethodsLab.tex
 MethodsBOD.tex
 MethodsOMQuality.tex
-ResultsCN.tex
 ResultsNutrientFlux.tex
 ResultsOMQuality.tex
 ResultsCPOMDens.tex
 ResultsLitterDecomp.tex
 ResultsOMMineralization.tex
+ResultsCN.tex
 ResultsErgosterol.tex
 begin_table_label_tab_ponds__.tex
 k_synthesis.tex
