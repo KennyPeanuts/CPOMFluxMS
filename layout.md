@@ -10,7 +10,6 @@ ResultsLitterDecomp.tex
 ResultsOMMineralization.tex
 ResultsNutrientFlux.tex
 ResultsOMQuality.tex
-ResultsCN.tex
 ResultsErgosterol.tex
 begin_table_label_tab_ponds__.tex
 k_synthesis.tex
