@@ -5,7 +5,7 @@ Methods_Litter_Decomp.tex
 MethodsLab.tex
 MethodsBOD.tex
 MethodsOMQuality.tex
-subsection_Statistical_Analysis_The_decay__.tex
+subsection_Statistical_Analysis_Differences_in__.tex
 ResultsCPOMDens.tex
 ResultsLitterDecomp.tex
 ResultsOMMineralization.tex
