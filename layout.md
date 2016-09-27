@@ -8,6 +8,7 @@ MethodsOMQuality.tex
 subsection_Statistical_Analysis_Differences_in__.tex
 ResultsCPOMDens.tex
 figures/CPOM_Dens_by_lake_scatter/CPOM_Dens_by_lake_scatter.png
+figures/LOI_survey/LOI_survey.png
 ResultsLitterDecomp.tex
 ResultsOMMineralization.tex
 ResultsNutrientFlux.tex
