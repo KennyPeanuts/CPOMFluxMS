@@ -11,6 +11,7 @@ figures/CPOM_Dens_by_lake_scatter/CPOM_Dens_by_lake_scatter.png
 figures/LOI_survey2/LOI_survey2.png
 ResultsLitterDecomp.tex
 ResultsOMMineralization.tex
+figures/DO_days/DO_days.png
 ResultsNutrientFlux.tex
 ResultsOMQuality.tex
 ResultsErgosterol.tex
