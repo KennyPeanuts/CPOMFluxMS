@@ -12,6 +12,7 @@ figures/LOI_survey2/LOI_survey2.png
 ResultsLitterDecomp.tex
 ResultsOMMineralization.tex
 figures/DO_days/DO_days.png
+figures/Slide1/Slide1.png
 ResultsNutrientFlux.tex
 ResultsOMQuality.tex
 ResultsErgosterol.tex
