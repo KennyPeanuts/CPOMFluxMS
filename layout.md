@@ -14,6 +14,7 @@ ResultsOMMineralization.tex
 figures/DO_days/DO_days.png
 figures/Slide1/Slide1.png
 ResultsNutrientFlux.tex
+figures/Slide2/Slide2.png
 ResultsOMQuality.tex
 ResultsErgosterol.tex
 begin_table_label_tab_ponds__.tex
