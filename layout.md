@@ -16,6 +16,7 @@ figures/Slide1/Slide1.png
 ResultsNutrientFlux.tex
 figures/Slide2/Slide2.png
 ResultsOMQuality.tex
+figures/Slide3/Slide3.png
 ResultsErgosterol.tex
 begin_table_label_tab_ponds__.tex
 k_synthesis.tex
