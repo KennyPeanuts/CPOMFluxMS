@@ -18,5 +18,6 @@ figures/Slide2/Slide2.png
 ResultsOMQuality.tex
 figures/Slide3/Slide3.png
 ResultsErgosterol.tex
+figures/area_erg_by_CPOM_nut/area_erg_by_CPOM_nut.png
 begin_table_label_tab_ponds__.tex
 k_synthesis.tex
