@@ -13,6 +13,7 @@ figures/LOI_survey2/LOI_survey2.png
 ResultsLitterDecomp.tex
 ResultsOMMineralization.tex
 begin_table_label_tab_SOD_ANOVA__.tex
+begin_table_label_tab_leached_SOD_ANOVA__.tex
 figures/DO_days/DO_days.png
 figures/Slide1/Slide1.png
 ResultsNutrientFlux.tex
