@@ -17,6 +17,7 @@ begin_table_label_tab_leached_SOD_ANOVA__.tex
 figures/DO_days/DO_days.png
 figures/Slide1/Slide1.png
 ResultsNutrientFlux.tex
+begin_table_label_tab_nut_anova__.tex
 figures/Slide2/Slide2.png
 ResultsOMQuality.tex
 figures/Slide3/Slide3.png
