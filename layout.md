@@ -20,6 +20,7 @@ ResultsNutrientFlux.tex
 begin_table_label_tab_nut_anova__.tex
 figures/Slide2/Slide2.png
 ResultsOMQuality.tex
+begin_table_label_tab_spec_stats__.tex
 figures/Slide3/Slide3.png
 ResultsErgosterol.tex
 figures/area_erg_by_CPOM_nut/area_erg_by_CPOM_nut.png
